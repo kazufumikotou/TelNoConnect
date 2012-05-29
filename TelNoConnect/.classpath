@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="resources"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/geronimo-j2ee_1.4_spec-1.0.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/s2-dao-1.0.51-sources.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/s2-dao-1.0.51.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/s2-extension-2.3.23-sources.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/s2-extension-2.3.23.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/s2-framework-2.3.23-sources.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/s2-framework-2.3.23.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/jsonic-1.0.5.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/ognl-2.6.9-patch-20070624.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/log4j-1.2.8.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/derby-10.1.2.1.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/javassist-3.4.ga.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/poi-3.0-FINAL.jar"/>
+	<classpathentry kind="lib" path="C:/cacco/tomcat 6.0/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="C:/cacco/tomcat 6.0/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="C:/cacco/tomcat 6.0/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="C:/cacco/tomcat 6.0/lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="C:/cacco/tomcat 6.0/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="C:/cacco/tomcat 6.0/lib/ecj-3.7.jar"/>
+	<classpathentry kind="lib" path="C:/cacco/tomcat 6.0/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="C:/cacco/tomcat 6.0/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="C:/cacco/tomcat 6.0/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="C:/cacco/tomcat 6.0/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="C:/cacco/tomcat 6.0/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/cacco/tomcat 6.0/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="C:/cacco/tomcat 6.0/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="C:/cacco/tomcat 6.0/lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="C:/cacco/tomcat 6.0/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="C:/cacco/tomcat 6.0/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/geronimo-jta_1.1_spec-1.0-tsr.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/geronimo-jta_1.1_spec-1.0.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/postgresql-9.0-801.jdbc4.jar"/>
+	<classpathentry kind="output" path="WEB-INF/classes"/>
+</classpath>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+<!DOCTYPE components PUBLIC "-//SEASAR//DTD S2Container//EN"
+"http://www.seasar.org/dtd/components.dtd">
+<components namespace="dao">
+	<include path="j2ee.dicon"/>
+	<component
+		class="org.seasar.dao.impl.FieldAnnotationReaderFactory"/>
+	<component
+		class="org.seasar.dao.impl.DaoMetaDataFactoryImpl"/>
+	<component name="interceptor"
+		class="org.seasar.dao.interceptors.S2DaoInterceptor"/>
+	<component
+		class="org.seasar.dao.impl.ValueTypeFactoryImpl"/>
+	<component class="org.seasar.dao.impl.DaoNamingConventionImpl"/>
+	<component class="org.seasar.dao.impl.BeanMetaDataFactoryImpl"/>
+	<component class="org.seasar.dao.impl.NullBeanEnhancer"/>
+	<component class="org.seasar.dao.impl.ResultSetHandlerFactoryImpl"/>
+	<component class="org.seasar.dao.impl.DtoMetaDataFactoryImpl"/>
+	<component class="org.seasar.dao.impl.PropertyTypeFactoryBuilderImpl"/>
+	<component class="org.seasar.dao.impl.RelationPropertyTypeFactoryBuilderImpl"/>
+	<component class="org.seasar.dao.impl.DefaultTableNaming"/>
+	<component class="org.seasar.dao.impl.DefaultColumnNaming"/>
+	<component class="org.seasar.dao.impl.ProcedureMetaDataFactoryImpl"/>
+</components>
